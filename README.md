@@ -1,3 +1,10 @@
+<style>
+h1 {
+  background-color: rgb(230,230,230);
+  color: rgb(30,30,30);
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Ernesto Ulloa <img src="https://res.cloudinary.com/dgs0qizpp/image/upload/v1683697537/personal/personalV1_nd4yye.png" alt="css3" width="120" height="120"/></h1>
 <h3 align="center">Full-Stack UI Developer, responsible for both the frontend design and backend functionality and logic implementation on the server.</h3>
 
