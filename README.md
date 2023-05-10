@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ernesto Ulloa <img src="https://res.cloudinary.com/dgs0qizpp/image/upload/v1683697537/personal/personalV1_nd4yye.png" alt="css3" width="120" height="120"/</h1>
-<h3 align="center">Full-Stack UI Developer, responsible for both the frontend design and backend functionality and logic implementation on the server.></h3>
+<h1 align="center">Hi 👋, I'm Ernesto Ulloa <img src="" alt="css3" width="40" height="40"/></h1>
+<h3 align="center">Full-Stack UI Developer, responsible for both the frontend design and backend functionality and logic implementation on the server.<img src="" alt="css3" width="40" height="40"/></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
