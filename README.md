@@ -1,5 +1,5 @@
 
- <img src="https://res.cloudinary.com/dgs0qizpp/image/upload/v1683765011/personal/personalV10_ioegxr.png" alt="css3" width="145" height="145"/>
+ <img src="https://res.cloudinary.com/dgs0qizpp/image/upload/v1683765011/personal/personalV10_ioegxr.png" alt="css3" width="545" height="155"/>
 
 
 <h3 align="center">Full-Stack UI Developer, responsible for both the frontend design and backend functionality and logic implementation on the server.</h3>
