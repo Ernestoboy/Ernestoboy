@@ -7,7 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ernesto-ulloa-0b61631ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ernesto-ulloa-0b61631ba" height="30" width="40" /></a>
  </p>
- <p>Correo:<p>edgar.guti2009@gmail.com</p></p>
+ _
+ <p>Correo: edgar.guti2009@gmail.com</p>
  
  
 <h3 align="left">Languages and Tools:</h3>
